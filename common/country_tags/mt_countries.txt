@@ -1,0 +1,6 @@
+ABT = "countries/Albret.txt"
+PGD = "countries/Perigord.txt"
+LIM = "countries/Limoges.txt"
+AGU = "countries/Angoumois.txt"
+DUN = "countries/Dunois.txt"
+NMO = "countries/Nemours.txt"

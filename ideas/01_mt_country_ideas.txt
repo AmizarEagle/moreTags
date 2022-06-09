@@ -1,0 +1,35 @@
+ABT_ideas = {
+	start = {
+		spy_offence = 0.2
+		fort_maintenance_modifier = -0.1
+	}
+	bonus = {
+		shock_damage = 0.1
+	}
+	trigger = {
+		tag = ABT
+	}
+	free = yes
+	ABT_political_manoeuvres = {
+		diplomats = 1
+	}
+	ABT_scattered_territories = {
+		global_autonomy = -0.05
+	}
+	ABT_shifting_alliances = {
+		diplomatic_upkeep = 1
+	}
+	ABT_armagnac_faction = {
+		merc_maintenance_modifier = -0.25
+	}
+	ABT_armagnac_brandy = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	ABT_powerful_dynasty = {
+		diplomatic_reputation = 1
+	}
+	ABT_archbishops_of_aquitaine = {
+		tolerance_own = 1
+		papal_influence = 0.5
+	}
+}
